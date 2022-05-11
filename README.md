@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ankeet123
-- 👀 I’m interested in Web development, Machine learning and coding. 
-- 🌱 I’m currently learning Nodejs and ML.
-- 💞️ I am looking to work on interesting ML/DL application based projects as well as webd projects involving frontend and backend. 
+- 👀 I’m interested in app development, machine learning and coding. 
+- 🌱 I’m currently practising coding questions.
+- 💞️ I am looking to work on interesting programming based projects.  
 - 📫 You can reach me at: -
     link to LinkedIn profile: https://www.linkedin.com/in/ankeet-524abc/
     gmail id: ankeetjena6@gmail.com
