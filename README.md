@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ankeet123
-- 👀 I’m interested in app development, machine learning and coding. 
-- 🌱 I’m currently practising coding questions.
+- 👀 I’m interested in coding and data analysis. 
+- 🌱 Currently practising in Codeforces and Leetcode.
 - 💞️ I am looking to work on interesting programming based projects.  
 - 📫 You can reach me at: -
     link to LinkedIn profile: https://www.linkedin.com/in/ankeet-524abc/
