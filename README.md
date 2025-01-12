@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Ankeet123
-- 👀 I’m interested in coding and data analysis. 
-- 🌱 Currently practising in Codeforces and Leetcode.
-- 💞️ I am looking to work on interesting programming based projects.  
+- 👀 I’m interested in coding and data analysis with a fusion of machine learning to predict future moves. 
 - 📫 You can reach me at: -
     link to LinkedIn profile: https://www.linkedin.com/in/ankeet-524abc/
     gmail id: ankeetjena6@gmail.com
